@@ -5,4 +5,7 @@ openpyxl>=3.1.0
 matplotlib
 osmnx 
 geopy
+overpy
+geopandas
+shapely
 requests
