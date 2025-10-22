@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 import osmnx as ox
 from geopy.distance import geodesic
 
+import osmnx as ox
+st.write("OSMNX version:", ox.__version__)
+
+
 st.title("Link Path Profile with Fresnel Zone & OSM Buildings")
 
 # User input
